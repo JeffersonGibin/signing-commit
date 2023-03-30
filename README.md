@@ -22,6 +22,7 @@ Agora é possível começar o processo de assinatura de commits.
 gpg --full-generate-key
 
 # Lista todas as chaves secretas geradas pelo gpg
+# Identifique sua KEY no resultado da seguinte forma sec   rsa4096/SUA_KEY 2023-03-30
 gpg --list-secret-keys --keyid-form LONG
 
 # Defina a chave da sua assinatura caso queira sempre usar a mesma chave para qualquer repositório defina a flag --global
