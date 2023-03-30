@@ -1,5 +1,5 @@
 const test = () => {
-  console.info("Hello");
+  console.info("test");
 }
 
 test();
