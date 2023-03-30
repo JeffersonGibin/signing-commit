@@ -46,5 +46,6 @@ export GPG_TTY=$(tty)
 [Como cadastrar a chave gpg no github ?](https://docs.github.com/en/enterprise-server@3.5/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account)
  
  
+### Considerações Finais
 Agora ao realizar um commit será solicitado a mesma senha que foi definida ao usar  o commando `gpg --full-generate-key`. Digite a senha na janela, feito isso faça o push das suas modificações e verifique se o commit está assinado no Github.
 
