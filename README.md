@@ -1,6 +1,6 @@
 # signing-commit
 
-Esse repositório foi criado explusivamente para testar a assinatura de commits.
+Esse repositório foi criado exclusivamente para testar a assinatura de commits.
 
 
 ### Comandos
